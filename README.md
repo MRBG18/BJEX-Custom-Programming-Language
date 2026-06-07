@@ -1,94 +1,165 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=BJEX&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Custom%20Programming%20Language%20%26%20Interpreter&descSize=22&descAlignY=60"/>
+# 🚀 BJEX Programming Language
+
+### Custom Programming Language & Interpreter Built From Scratch in Java
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Lexer+%E2%86%92+Parser+%E2%86%92+AST+%E2%86%92+Interpreter;Functions+%E2%80%A2+Arrays+%E2%80%A2+Dictionaries+%E2%80%A2+Modules;File+I%2FO+%E2%80%A2+Exceptions+%E2%80%A2+Recursion+%E2%80%A2+Matrices;Currently+Under+Active+Development"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=🚧+BJEX+is+currently+under+development;Building+a+Programming+Language+from+Scratch;Lexer+→+Parser+→+AST+→+Interpreter;New+Features+and+Updates+Coming+Soon" />
-
-<br><br>
-
-![Status](https://img.shields.io/badge/Status-Under_Development-orange?style=for-the-badge)
-![Build](https://img.shields.io/badge/Build-Work_In_Progress-red?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-Alpha-blue?style=for-the-badge)
-![Language](https://img.shields.io/badge/Java-17+-informational?style=for-the-badge)
-
-<br><br>
-
-# 🚀 BJEX Programming Language
-
-### Custom Programming Language & Interpreter
-
-> ⚠️ Active Development In Progress
+![Status](https://img.shields.io/badge/STATUS-ACTIVELY_DEVELOPED-orange?style=for-the-badge)
+![Language](https://img.shields.io/badge/JAVA-17+-blue?style=for-the-badge)
+![Build](https://img.shields.io/badge/BUILD-IN_PROGRESS-red?style=for-the-badge)
+![Version](https://img.shields.io/badge/VERSION-ALPHA-success?style=for-the-badge)
 
 </div>
 
 ---
 
-# 📢 Project Status
+# ⚠️ Development Status
 
-BJEX is currently being developed and refined.
+BJEX is currently under active development.
 
-Features, syntax, runtime components, tooling, and documentation are actively evolving as the project moves toward its first stable release.
+The language core is functional and many major features are already implemented, but the repository is still evolving and undergoing continuous improvements, optimization, testing, and documentation updates.
+
+Expect frequent commits, new features, bug fixes, and occasional breaking changes until the first stable release.
 
 ---
 
-# 🛠️ Development Progress
+# ✨ Currently Implemented
+
+### Core Language
+
+* Variables
+* Integers
+* Floating Point Numbers
+* Strings
+* Booleans
+* Expressions
+* Operators
+* Comments
+
+### Control Flow
+
+* If / Else
+* While Loops
+* For Loops
+
+### Functions
+
+* User Defined Functions
+* Parameters
+* Return Values
+* Recursive Functions
+
+### Collections
+
+* Arrays
+* Dictionaries
+* Array Manipulation
+* Dictionary Utilities
+
+### String Utilities
+
+* Length
+* Uppercase
+* Lowercase
+* Substring
+* Split
+* Join
+* Contains
+
+### Type System
+
+* typeof()
+* isnumber()
+* isbool()
+* islist()
+
+### Exception Handling
+
+* try
+* exception
+* finally
+
+### Modules
+
+* Import System
+* Custom Modules
+
+### File System
+
+* readfile()
+* writefile()
+
+### Advanced Features
+
+* Matrix Operations
+* Symbol Type
+* Range Generation
+* Time Functions
+* Input Handling
+
+---
+
+# 🏗️ Architecture
 
 ```text
-██████████████████░░░░░░░░░░░░░░░░░░░ 45%
+Source Code
+     │
+     ▼
+   Lexer
+     │
+     ▼
+   Tokens
+     │
+     ▼
+   Parser
+     │
+     ▼
+ Abstract Syntax Tree
+     │
+     ▼
+ Interpreter
+     │
+     ▼
+ Runtime Environment
+     │
+     ▼
+ Program Output
 ```
 
-### Current Focus
+---
 
-* ✅ Core Architecture
-* ✅ Language Design
-* 🚧 Interpreter Improvements
-* 🚧 Feature Expansion
-* 🚧 Documentation
-* ⏳ Stable Release Preparation
+# 📌 Repository Notice
+
+This repository represents an actively evolving programming language project.
+
+Documentation, examples, releases, tooling, and additional language features are still being refined.
+
+The current state should be considered:
+
+```text
+███████████████████████░░░░░░░░░░░░ 65%
+```
+
+Development Progress: Ongoing 🚧
 
 ---
 
-# ⚠️ Work In Progress
+# ⭐ Follow Development
 
-This repository may contain:
+New features, improvements, optimizations, and releases will continue to be added as BJEX progresses toward a stable version.
 
-* Experimental features
-* Incomplete implementations
-* Frequent commits and updates
-* Breaking changes between versions
-
-Development is active and ongoing.
-
----
-
-# 📦 Releases
-
-Official releases will be available through GitHub Releases.
-
-Future targets:
-
-* Windows
-* macOS
-* Linux
-
----
-
-# ⭐ Support The Project
-
-If you find BJEX interesting, consider giving the repository a star.
-
-It helps track progress and supports future development.
+If you're interested in compiler design, interpreters, and programming language development, consider starring the repository to follow the journey.
 
 ---
 
 <div align="center">
 
-## 🚧 UNDER ACTIVE DEVELOPMENT 🚧
+## 🚧 BJEX IS CURRENTLY UNDER ACTIVE DEVELOPMENT 🚧
 
-### New Updates Coming Soon
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer"/>
+### More Features • Better Performance • Stable Releases Coming Soon
 
 </div>
