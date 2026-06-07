@@ -1,29 +1,40 @@
 <div align="center">
 
-# 🚀 BJEX Programming Language
-
-### Custom Programming Language & Interpreter Built From Scratch in Java
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Lexer+%E2%86%92+Parser+%E2%86%92+AST+%E2%86%92+Interpreter;Functions+%E2%80%A2+Arrays+%E2%80%A2+Dictionaries+%E2%80%A2+Modules;File+I%2FO+%E2%80%A2+Exceptions+%E2%80%A2+Recursion+%E2%80%A2+Matrices;Currently+Under+Active+Development"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,25:1e293b,50:2563eb,75:3b82f6,100:60a5fa&text=BJEX&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Custom%20Programming%20Language%20%7C%20Interpreter%20Built%20in%20Java&descSize=24&descAlignY=60"/>
 
 <br>
 
-![Status](https://img.shields.io/badge/STATUS-ACTIVELY_DEVELOPED-orange?style=for-the-badge)
-![Language](https://img.shields.io/badge/JAVA-17+-blue?style=for-the-badge)
-![Build](https://img.shields.io/badge/BUILD-IN_PROGRESS-red?style=for-the-badge)
-![Version](https://img.shields.io/badge/VERSION-ALPHA-success?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Building+a+Programming+Language+From+Scratch;Lexer+%E2%86%92+Parser+%E2%86%92+AST+%E2%86%92+Interpreter;Functions+%7C+Arrays+%7C+Dictionaries+%7C+Modules;File+I%2FO+%7C+Exceptions+%7C+Recursion+%7C+Matrices;Currently+Under+Active+Development"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY_DEVELOPED-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JAVA-17+-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILD-IN_PROGRESS-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VERSION-ALPHA-success?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Lexer-Implemented-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Parser-Implemented-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/AST-Implemented-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Interpreter-Implemented-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Functions-Supported-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Arrays-Supported-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dictionaries-Supported-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/File_IO-Supported-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Modules-Supported-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Exceptions-Supported-success?style=flat-square"/>
 
 </div>
 
 ---
 
-# ⚠️ Development Status
+# 🚧 Development Status
 
 BJEX is currently under active development.
 
-The language core is functional and many major features are already implemented, but the repository is still evolving and undergoing continuous improvements, optimization, testing, and documentation updates.
-
-Expect frequent commits, new features, bug fixes, and occasional breaking changes until the first stable release.
+The language core is already functional and includes many advanced language features. The repository remains under continuous development as additional improvements, optimizations, tooling, documentation, and language enhancements are being implemented.
 
 ---
 
@@ -38,7 +49,7 @@ Expect frequent commits, new features, bug fixes, and occasional breaking change
 * Booleans
 * Expressions
 * Operators
-* Comments
+* Multiple Comment Styles
 
 ### Control Flow
 
@@ -132,33 +143,9 @@ Source Code
 
 ---
 
-# 📌 Repository Notice
-
-This repository represents an actively evolving programming language project.
-
-Documentation, examples, releases, tooling, and additional language features are still being refined.
-
-The current state should be considered:
-
-```text
-███████████████████████░░░░░░░░░░░░ 65%
-```
-
-Development Progress: Ongoing 🚧
-
----
-
-# ⭐ Follow Development
-
-New features, improvements, optimizations, and releases will continue to be added as BJEX progresses toward a stable version.
-
-If you're interested in compiler design, interpreters, and programming language development, consider starring the repository to follow the journey.
-
----
-
 <div align="center">
 
-## 🚧 BJEX IS CURRENTLY UNDER ACTIVE DEVELOPMENT 🚧
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:60a5fa&height=90&text=🚧%20BJEX%20IS%20UNDER%20ACTIVE%20DEVELOPMENT%20🚧&fontSize=28&fontColor=ffffff&animation=blinking"/>
 
 ### More Features • Better Performance • Stable Releases Coming Soon
 
